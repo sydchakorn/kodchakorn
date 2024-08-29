@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Kodchakorn Khemtonglang"
-  pronouns         : "she/her"  
-  bio              : "Short biography"
+  pronouns         : # "she/her"  
+  bio              : "Fulbright Thai Scholar"
   location         : "Khon Kaen, TH"
-  employer         : "Red Brick University"
+  employer         : "University of Illinois at Urbana-Champaign"
   uri              : # URL
   email            : "kkhemtonglang@gmail.com" 
 
