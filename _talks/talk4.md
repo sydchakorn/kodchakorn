@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/talk4
 venue: "EducationUSA, Thailand"
 date: 2013-03-01
-location: "Online"
+location: #"Online"
 ---
 
 [Video can be found here](https://www.facebook.com/share/v/UTGotWdqdmzBLF5i/)
