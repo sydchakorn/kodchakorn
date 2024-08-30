@@ -11,35 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Bioengineering, University of Illinois at Urbana-Champaign, 2024
+* B.S. in Chemical Engineering (Second-class honor), Khon Kaen University, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Graduate Research Assistant (June 2024 - present)
+  * Biomedical Engineering Lab at Khon Kaen University
+  * PI: Prof. Oranat Chuchuen
+  * Collaborated with 2 graduate students on the project for glucose and alcohol detection using paper-based fuel cell biosensors
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Research Assistant (August 2022 – May 2024)
+  * Nanosensors group at the University of Illinois at Urbana-Champaign 
+  * PI: Prof. Brian. T. Cunningham
+  * A portable, digital resolution, and smartphone-linked Photonic Resonator Absorption Microscope (PRAM Mini) for point-of-care diagnostics
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Undergraduate Research Assistant (August 2020 – August 2022)
+  * Biomedical Engineering Lab at Khon Kaen University 
+  * PI: Prof. Oranat Chuchuen
+  * Project 1: A Wristband for Real-Time Sweat Alcohol Monitoring and Drunk Driving Prevention
+  * Project 2: A Disposable Paper-Based Biosensor Integrated with Smartphone for Real-Time Sweat Alcohol Sensing
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Analytical Techniques
+  * Scanning Electron Microscope (SEM)
+  * Spectrometer
+  * Dynamic Light Scattering
+* Prototyping
+  * Arduino boards
+  * Epilog (Laser cutting)
+  * 3D printing (SLA)
+* Modeling
+  * SolidWorks
+  * AutoCAD
 
 Publications
 ======
@@ -53,9 +58,9 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Awards and honors
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.awards reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
