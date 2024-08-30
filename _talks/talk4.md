@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/talk4
 venue: "EducationUSA, Thailand"
-date: 2013-03-01
+date: 2024-03-08
 location: #"Online"
 ---
 

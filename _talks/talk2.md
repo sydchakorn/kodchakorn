@@ -10,4 +10,4 @@ location: "Online"
 
 [Talk recording can be found here](https://youtu.be/gsdESdOFbmU?si=89han0HtMIzASHjU)
 
-This talk was a part of Sensors and Applications Course from Department of Electrical Engineering, Khon Kaen University
+This talk was a part of a Sensors and Applications Course from Department of Electrical Engineering, Khon Kaen University
