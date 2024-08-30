@@ -25,8 +25,9 @@ author:
   name             : "Kodchakorn Khemtonglang"
   pronouns         : # "she/her"  
   bio              : "Fulbright Thai Scholar"
-  location         : "Khon Kaen, TH"
+  location         : # "Khon Kaen, TH"
   employer         : "University of Illinois"
+  employer         : "Khon Kaen University"
   uri              : # URL
   email            : "kkhemtonglang@gmail.com" 
 
@@ -36,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : # "https://orcid.org/0000-0003-4106-0790"
   semantic         : # URL
-  pubmed           : ##
+  pubmed           : #
   researchgate     : # "https://www.researchgate.net/profile/Kodchakorn-Khemtonglang-2"
 
   # Repositories and software development
@@ -79,6 +80,8 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
+  reviews:
+    title: 'Review Articles'
   conferences:
     title: 'Conference Papers'
 
