@@ -8,6 +8,6 @@ date: 2023-03-12
 location: "Online"
 ---
 
-[Talk recording can be found here](https://youtu.be/gsdESdOFbmU?si=89han0HtMIzASHjU)
+[Video can be found here](https://youtu.be/gsdESdOFbmU?si=89han0HtMIzASHjU)
 
 This talk was a part of a Sensors and Applications Course from Department of Electrical Engineering, Khon Kaen University
