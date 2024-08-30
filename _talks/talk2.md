@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/talk2
 venue: "Khon Kaen University, Faculty of Engineering, Department of Electrical Engineering"
 date: 2023-03-12
-location: "Online"
+location: #"Online"
 ---
 
 [Video can be found here](https://youtu.be/gsdESdOFbmU?si=89han0HtMIzASHjU)
