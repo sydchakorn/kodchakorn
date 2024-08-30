@@ -58,12 +58,14 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Awards and honors
+Awards
 ======
   <ul>{% for post in site.awards reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Volunteer
 ======
-* Currently signed in to 43 different slack teams
+  <ul>{% for post in site.volunteer reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
