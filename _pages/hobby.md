@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /hobby/
+title: "Hobby"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /hb/
+  - /hobby.html
 ---
 
 ## Locations of key files/directories
