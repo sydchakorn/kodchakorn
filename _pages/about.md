@@ -1,30 +1,19 @@
 ---
 permalink: /
-title: "Welcome to My Personal Website"
+title: "Welcome to Kodchakorn's Webpage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-jjjj
+Hello and welcome! I’m Kodchakorn Khemtonglang (People called me Sydney). I recently completed my master's degree in Bioengineering from the University of Illinois at Urbana-Champaign, with the support from the Fulbright Scholarship. Before that, I have completed my undergraduate study in Chemical engineering from Khon Kaen University (second-class hornor), with the support from the Panasonic Scholarship. This space is dedicated to sharing my academic journey, research interests, and professional growth as I delve into the world of academia and entrepreneur.
 
-Getting started
+About Me
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 
+I’m passionate about biosensors, specifially wearable biosensors and bioelectronics. I am an engineer with the love for biology. My research interest focuses on merging the beauty between engineering and biology to create a personalized teachnology for a better health. 
 
+Outside of a research lab, I love putting myself into voluntary works and non-profit organizations. I have involved in TEDxKhonKaenU for 4 years, TEDxUIUC for 2 years, and I have been to more than 10 TEDx events. I also explored my entreprenerial interest through working with the Young Entrepreneur Assembly Hub (YEAH) in Thailand as a program manager for the YEAH Leadership Program 2024: Visionaries in the Making.
 
-Create content & metadata
-------
-
-
-**Markdown generator**
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+In my free time (besides lab and volunteer), I always make time for the gym. I am a hybrid athlete with an interest in CrossFit, HIIT, running, weight-training, and badminton. I also love journaling, playing with my cats, trying out new foods, traveling, and learning new languages.
